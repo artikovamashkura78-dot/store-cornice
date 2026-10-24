@@ -6,6 +6,18 @@ Bambuk panellar va interyer dekorlari uchun to‘liq ishlaydigan onlayn do‘kon
 
 ---
 
+## ⚡️ Ishga tushirish
+
+```bash
+npm install
+npm run dev
+```
+
+→ **Sayt:** http://localhost:5173  
+→ **Admin panel:** http://localhost:5173/admin (login: `admin`, parol: `455217`)
+
+---
+
 ## ▶️ Kompyuterda ochish (eng oson yo‘l)
 
 1. [nodejs.org](https://nodejs.org) dan **LTS** versiyani o‘rnating (bir marta).
